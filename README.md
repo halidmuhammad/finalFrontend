@@ -7,14 +7,12 @@ Sky sports like application built with ReactJS + Redux
 
 - Webpack configuration for production
 - Use of ES6
-- Firebase Backend
-- Authentication
 
 ## Installation
 
 Clone this repo
 ```
-git clone https://github.com/neil-mills/sportz.git
+git clone https://github.com/halidmuhammad/finalFrontend.git
 cd sportz
 ```
 
